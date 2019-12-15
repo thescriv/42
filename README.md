@@ -4,8 +4,8 @@
 MyProject From 42
 
 libft:
-  > Libft est un projet qui demande de recoder un grand nombre de fonction de la lib C
-    > sujet -> 
+  ``` Libft est un projet qui demande de recoder un grand nombre de fonction de la lib C```
+  > sujet -> 
 
 printf:
   > Printf est un projet demandant de recoder la fonction systeme Printf
