@@ -3,74 +3,40 @@
 # 42
 MyProject From 42
 
-libft:
-  ``` Libft est un projet qui demande de recoder un grand nombre de fonction de la lib C```
-  > sujet -> 
+libft
+> Premier projet de 42 qui demande de recoder des fonctions de la libC
 
-printf:
-  > Printf est un projet demandant de recoder la fonction systeme Printf
-  > sujet ->
-  
-ls:
-  ls est un projet demandant de recoder la fonction systeme Ls
-    sujet ->
+Get_next_line
+> Projet de 42 qui demande de recoder une fonction de lecture de fichier ligne par ligne
 
-fdf:
-  fdf est un projet proposant une initiation dans le monde du graphisme, 
-    il faut donc pouvoir afficher des formes qui nous seront passer en parametres
-      sujet -> 
+fillit
+> Premier projet d'algorithmie, ou nous devons trouver une solution viable en un minimum de coup possible ( Backtracking )
 
-filler:
-  filler est le premier projet dit "algo"
-    ce projet nous demande de jouer contre un ordinateur a un jeu de piece
-      sujet -> 
+ft_printf
+> Recoder une partie de la fonction printf
 
-lem_in:
-  lem_in est le second projet algo
-  
-    les regles:
-    faire un passer un nombre de fourmis X a travers un tunnel pour aller de start a end
-    elles doivent etre seuls par tunnel et par salle
-    
-    
-    exemple de tunnel:
-    
-                  [start]
-                   /  |
-                 [3] [1]--[5]
-                /     |    |
-              [4] -- [2]  [6]
-                      |   /
-                     [end]
-                     
-    sujet -> 
+ft_ls
+> Recode une partie de la fonction systeme ls
 
-corewar:
+fdf
+> Premier projet graphique avec une representation en 3D d'un terrain en fil de fer
 
-  Corewar est un projet un peux particulier 
-    le projet est en deux parties
-        1ere Recoder un compilateur d'assembleur
-          ici nous devions transformer des champions rempli d'ordres de semi assembleur en hexadecimal
+init
+> Premier projet reseau une initiation au fonctionnement d'un DNS / IP / TCP / requete
+
+Roger-skyline1
+> Projet reseau demandant de setup une VM avec un server ssh proteger pour eviter les attaques (DDOS / ecoute sur des ports non couvert)
+
+Filler
+> Projet demandant de creer un champion pour jouer à un jeu de plateau et de gagner a tout les coups
+
+Lem_In
+> Premiere initiation au parcours de graphe pour faire passer un nombre X de fourmis dans un tunnel composer de X salles d'un point A à un point B en un minimum de coup
+> https://fr.wikipedia.org/wiki/Algorithme_de_Dijkstra
+
+Corewar
+> Recoder un compilateur ASM pour creer des champions qui vont se battre dans une representation d'un environnement de RAM
+> https://fr.wikipedia.org/wiki/Core_War
           
-        2eme Recoder une Ram pour y mettre des champions
-          apres avoir compiler les champions nous devions les utiliser quelque part
-          nous devions donc reproduire le comportement d'une ram et implementer 
-            les ordres des champions pour qu'ils puissent "combattre"
-          le but du combat ici pour chaque champion etait de dire au programme maitre qu'il etait en vie a chaque tour
-          si le programme maitre ne recois pas de signe de vie d'un champion il est indiquer comme etant mort
-          le but du jeu est donc le suivant : 
-            trouver un moyen d'ecraser la memoire de l'adversaire pour l'empecher de dire qu'il est vivant
-          
-          sujet -> 
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
+Computer V1
+> Coder un resolveur d'equation compris entre le degres 0 et 2 en incluant les solutions complexe
