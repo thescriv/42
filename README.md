@@ -32,11 +32,11 @@ Filler
 
 Lem_In
 > Premiere initiation au parcours de graphe pour faire passer un nombre X de fourmis dans un tunnel composer de X salles d'un point A à un point B en un minimum de coup
-> https://fr.wikipedia.org/wiki/Algorithme_de_Dijkstra
+``` https://fr.wikipedia.org/wiki/Algorithme_de_Dijkstra ```
 
 Corewar
 > Recoder un compilateur ASM pour creer des champions qui vont se battre dans une representation d'un environnement de RAM
-> https://fr.wikipedia.org/wiki/Core_War
+``` https://fr.wikipedia.org/wiki/Core_War ```
           
 Computer V1
 > Coder un resolveur d'equation compris entre le degres 0 et 2 en incluant les solutions complexe
